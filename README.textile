@@ -1,0 +1,13 @@
+h1. Project Lincoln
+
+You can't beat a good beard.
+
+h2. Folder system
+
+* demo - all our little projects can go into here
+* server - The server source code.
+* client - The client rails project will go here
+
+h2. Git info
+
+Git doesn't like empty folders, so for now, I've added a .gitignore file to all these folders. Shouldn't be an issue, just fyi.
